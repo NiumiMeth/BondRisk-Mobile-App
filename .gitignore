@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.env/
+.venv/
+
+# Streamlit secrets (do not commit)
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
